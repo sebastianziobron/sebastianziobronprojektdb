@@ -1,0 +1,35 @@
+Type_restaurant
+  Zawiera rodzaj restauracji
+
+Role
+  Zawiera role użytkowników Admin, klient
+
+User
+  Zawiera dane użytkownika
+
+Restaurant
+  Zawiera informacje o restauracjach
+
+City
+  Przechowuje nazwy miast
+  
+food 
+  przechowuje rodzaj dania
+  
+Order
+  Zapisuje informacje o złożonym zamówieniu
+  
+Item_order
+  przechowuje dania do zamówienia
+  
+Status_order
+  przechowuje nazwe statusu zamówienia
+  
+Category_food
+  przechowuje nazwe kategori dania
+  
+Comment
+  przechowuje wystawione komentarze
+  
+Customer
+  przechowuje Dane klienta
